@@ -28,7 +28,7 @@
   <artifactId>spring-ybtfl</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <url>https://github.com/GuYBTFL</url>
+  <url>https://github.com/GuYBTFL/spring-ybtfl</url>
 
 
   <dependencies>
